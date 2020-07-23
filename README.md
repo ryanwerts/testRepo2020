@@ -1,3 +1,14 @@
-# Hello
+# This is my first repository
 
-Thanks for reading me. 
+## Goals:
+
+- Learn how to use markdown
+- Get comfortable with basic git commands
+- Understand git workflow
+- Plan out what to do with my real repo
+
+---
+
+[Google](google.com)
+
+`print(Hello world!`)
